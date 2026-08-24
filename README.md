@@ -1,9 +1,9 @@
 # Hi there, I'm KIRAN A 👋
 
 <p align="center">
-  <b>Full Stack Web Developer (MERN) | DevOps & Cloud Enthusiast</b>[cite: 1]<br>
-  <i>MCA Student at Adhiyamaan College of Engineering</i>[cite: 1]<br>
-  📍 Hosur, Tamil Nadu, India[cite: 1]
+  <b>Full Stack Web Developer (MERN) | DevOps & Cloud Enthusiast</b><br>
+  <i>MCA Student at Adhiyamaan College of Engineering</i><br>
+  📍 Hosur, Tamil Nadu, India
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently looking for an entry-level **Full Stack / MERN Developer** role in Bangalore or Hyderabad[cite: 1].
-- 💼 Recently worked as a **Technical Trainee Intern** at **Keykoders**, building and deploying real-time web applications[cite: 1].
-- 🌱 I’m currently strengthening my knowledge in **DevOps practices, Docker, CI/CD pipelines, and Cloud deployments**[cite: 1].
-- ⚡ **Hobbies:** Cooking 🍳 and Playing Cricket 🏏[cite: 1]
-- 📫 How to reach me: **kr0681728@gmail.com**[cite: 1]
+- 🔭 I’m currently looking for an entry-level **Full Stack / MERN Developer** role in Bangalore or Hyderabad.
+- 💼 Recently worked as a **Technical Trainee Intern** at **Keykoders**, building and deploying real-time web applications.
+- 🌱 I’m currently strengthening my knowledge in **DevOps practices, Docker, CI/CD pipelines, and Cloud deployments**.
+- ⚡ **Hobbies:** Cooking 🍳 and Playing Cricket 🏏
+- 📫 How to reach me: **kr0681728@gmail.com**
 
 <p align="left">
   <a href="https://linkedin.com/in/kiran-a-177537284" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -29,7 +29,7 @@
 
 ### 🛠️ Tech Stack & Skills
 
-**Languages & Web Tech:**[cite: 1]
+**Languages & Web Tech:**
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-**Backend & Databases:**[cite: 1]
+**Backend & Databases:**
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-**DevOps, Tools & Cloud:**[cite: 1]
+**DevOps, Tools & Cloud:**
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
@@ -57,12 +57,12 @@
 
 ---
 
-### 💻 Featured Projects[cite: 1]
+### 💻 Featured Projects
 
-* **Smart Study Group Matcher**[cite: 1]
-  * A web platform that helps students connect for collaborative study sessions using a matching algorithm based on subject preferences, group size, availability, and learning styles[cite: 1].
-* **ATS Resume Matcher**[cite: 1]
-  * An application designed to optimize resumes against job descriptions through ATS-style analysis, providing a match score while highlighting skill and keyword overlaps[cite: 1].
+* **Smart Study Group Matcher**
+  * A web platform that helps students connect for collaborative study sessions using a matching algorithm based on subject preferences, group size, availability, and learning styles.
+* **ATS Resume Matcher**
+  * An application designed to optimize resumes against job descriptions through ATS-style analysis, providing a match score while highlighting skill and keyword overlaps.
 
 ---
 
