@@ -3,7 +3,7 @@
 <p align="center">
   <b>Full Stack Web Developer (MERN) | DevOps & Cloud Enthusiast</b>[cite: 1]<br>
   <i>MCA Student at Adhiyamaan College of Engineering</i>[cite: 1]<br>
-  📍 Chennai / Hosur, Tamil Nadu, India[cite: 1]
+  📍 Hosur, Tamil Nadu, India[cite: 1]
 </p>
 
 <p align="center">
