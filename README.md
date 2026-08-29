@@ -5,8 +5,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Hi%20There!%20I'm%20KIRAN%20A&amp;fontSize=40&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full%20Stack%20(MERN)%20Developer%20%7C%20DevOps%20%26%20Cloud%20Enthusiast&amp;descAlignY=55&amp;descSize=17"
-  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There!%20I%27m%20KIRAN%20A&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20(MERN)%20Developer%20%7C%20DevOps%20and%20Cloud%20Enthusiast&descAlignY=55&descSize=17"
   alt="Kiran A Header"
 />
 
