@@ -15,9 +15,7 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=MCA+Student+%40+Adhiyamaan+College+of+Engineering;Building+real-time+MERN+applications;Exploring+Docker%2C+CI%2FCD+%26+Cloud+Deployments;Open+to+Full+Stack+%2F+MERN+roles+in+Bangalore+%26+Hyderabad"
     alt="Typing SVG"
 />
-
 </a>
-
 
 
 <br/>
