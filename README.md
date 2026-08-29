@@ -18,9 +18,11 @@
   <a href="https://linkedin.com/in/kiran-a-177537284" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="https://kiran-code9080.github.io/Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/>
   </a>
+
   <a href="mailto:kr0681728@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -123,44 +125,34 @@ Features include:
 </tr>
 </table>
 
-> 💡 Add your live demo and GitHub repository links when these projects are available publicly.
-
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=kiran-code9080&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Kiran's GitHub Stats"/>
+<img height="170"
+src="https://github-readme-stats-fast.vercel.app/api?username=kiran-code9080&show_icons=true&theme=radical&hide_border=true&count_private=true"
+alt="Kiran's GitHub Stats"/>
 
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kiran-code9080&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+<img height="170"
+src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kiran-code9080&layout=compact&theme=radical&hide_border=true"
+alt="Top Languages"/>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=kiran-code9080&theme=radical&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
+### 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiran-code9080&theme=react-dark&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=kiran-code9080&theme=react-dark&hide_border=true"
+width="100%"
+alt="GitHub Activity Graph"/>
 
 </div>
-
----
-
-## ⏳ Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-> ⚙️ To populate this section automatically, configure the WakaTime GitHub README action and add your WakaTime API key as a repository secret.
 
 ---
 
@@ -169,24 +161,42 @@ Features include:
 <div align="center">
 
 <picture>
+
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/kiran-code9080/kiran-code9080/output/github-contribution-grid-snake-dark.svg"
   />
+
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/kiran-code9080/kiran-code9080/output/github-contribution-grid-snake.svg"
   />
+
   <img
     src="https://raw.githubusercontent.com/kiran-code9080/kiran-code9080/output/github-contribution-grid-snake.svg"
     width="100%"
     alt="GitHub Contribution Snake"
   />
+
 </picture>
 
 </div>
 
-> ⚙️ **Snake setup:** Add the `Platane/snk` GitHub Action to your `kiran-code9080/kiran-code9080` profile repository. The workflow should generate both `github-contribution-grid-snake.svg` and `github-contribution-grid-snake-dark.svg` in the `output` branch.
+---
+
+## 📌 Current Focus
+
+<div align="center">
+
+| Area | Focus |
+|:---:|:---|
+| 💻 Development | Full Stack MERN |
+| ⚙️ DevOps | Docker • Jenkins • CI/CD |
+| ☁️ Cloud | Deployment & Cloud Infrastructure |
+| 🗄️ Databases | MongoDB • MySQL |
+| 🚀 Career | Full Stack / MERN Developer |
+
+</div>
 
 ---
 
