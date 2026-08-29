@@ -143,16 +143,24 @@ alt="Top Languages"/>
 
 <br/>
 
-### 📈 Contribution Activity
+### 📈 Contribution Overview
 
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=kiran-code9080&theme=react-dark&hide_border=true"
-width="100%"
-alt="GitHub Activity Graph"/>
+  src="https://github-readme-stats-fast.vercel.app/api?username=kiran-code9080&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"
+  height="180"
+  alt="GitHub Contribution Statistics"
+/>
+
+<img
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kiran-code9080&layout=compact&theme=radical&hide_border=true"
+  height="180"
+  alt="Most Used Languages"
+/>
 
 </div>
+
 
 ---
 
