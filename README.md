@@ -109,7 +109,7 @@ An application that optimizes resumes against job descriptions through ATS-style
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kiran-code9080&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=kiran-code9080&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
