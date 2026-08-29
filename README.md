@@ -31,7 +31,7 @@
 - 🔭 Actively looking for an **entry-level Full Stack / MERN Developer** role in **Bangalore or Hyderabad**
 - 💼 Recently worked as a **Technical Trainee Intern @ Keykoders**, building and deploying real-time web applications
 - 🌱 Currently strengthening my skills in **DevOps, Docker, CI/CD pipelines, and Cloud deployments**
-- 🎓 Pursuing **MCA at Adhiyamaan College of Engineering**
+- 🎓 completed **MCA at Adhiyamaan College of Engineering**
 - ⚡ **Hobbies:** Cooking 🍳 and Playing Cricket 🏏
 - 📫 Reach me at **kr0681728@gmail.com**
 
